@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @brian804
+- 👀 I’m interested in web development and learning more about it each and every day through reading, viewing related content and hands on practice.  
+- 🌱 I’m currently working through Colt steele's and Angel Yu's web development courses on Udemy. 
+- 📫 How to reach me - My email is brianrivera1994@gmail.com 
